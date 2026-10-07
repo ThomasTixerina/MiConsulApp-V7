@@ -1,0 +1,9 @@
+{
+  "name": "Copy of MiConsulApp CRM V7",
+  "description": "A modern, AI-first CRM for dental clinics, featuring omnichannel opportunity capture and intelligent patient management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
